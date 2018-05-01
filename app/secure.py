@@ -1,0 +1,4 @@
+DEBUG = False
+# SQLALCHEMY_DATABASE_URI = 'mysql+cymysql://root:123456@localhost:3306/fisher'
+SQLALCHEMY_DATABASE_URI = 'sqlite://'
+SQLALCHEMY_TRACK_MODIFICATIONS = True
